@@ -1,6 +1,8 @@
 
 VERSÃO DO PHP: 8.0.10
 
+ATENÇÃO: Rodar comando 'composer install' na raiz do projeto
+
 ATENÇÃO: Necessário criar arquivo .env seguindo os passos do .env.example
 
 * Arquivo .env na raiz é responsável por configurações estáticas do sistema (como conexão com a base e URLs).
